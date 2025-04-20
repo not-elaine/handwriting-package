@@ -1,0 +1,13 @@
+hiiii elaine here!
+if u would like to use this font package, pls use the follwing code. thx!
+
+/* fat fonts package (credits to @elainehan; pls keep this header if used) */
+@import url('https://cdn.statically.io/gh/not-elaine/handwriting-package/main/fonts.css');
+
+this font package includes many handwritten body fonts:
+-abalone         -back home        -comfy feeling
+-dorky circle    -espressonal      -holy friday
+-lazy monday     -mister stars     -nice sugar
+-pencil child    -pretty single    -real world
+-simple day      -sleepy moody     -stand alone
+-starla          -angel
