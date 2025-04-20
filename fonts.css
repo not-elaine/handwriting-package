@@ -1,0 +1,151 @@
+/* abalone (pls give credits to @elainehan if used) */
+@font-face {
+font-family: abalone;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/AbaloneSmile.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/AbaloneSmile.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* back home (pls give credits to @elainehan if used) */
+@font-face {
+font-family: back home;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/BackHome-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/BackHome-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* comfy feeling (pls give credits to @elainehan if used) */
+@font-face {
+font-family: comfy feeling;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/ComfyFeeling.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/ComfyFeeling.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* dorky circle (pls give credits to @elainehan if used) */
+@font-face {
+font-family: dorky circle;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/DorkyCircle.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/DorkyCircle.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* espressonal (pls give credits to @elainehan if used) */
+@font-face {
+font-family: espressonal;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/Espressonal.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/Espressonal.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* holy friday (pls give credits to @elainehan if used) */
+@font-face {
+font-family: holy friday;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/HolyFriday.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/HolyFriday.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* lazy monday (pls give credits to @elainehan if used) */
+@font-face {
+font-family: lazy monday;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/LazyMonday.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/LazyMonday.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* mister stars (pls give credits to @elainehan if used) */
+@font-face {
+font-family: mister stars;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/MisterStars.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/MisterStars.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* nice sugar (pls give credits to @elainehan if used) */
+@font-face {
+font-family: nice sugar;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/NiceSugar.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/NiceSugar.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* pencil child (pls give credits to @elainehan if used) */
+@font-face {
+font-family: pencil child;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/PencilChild.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/PencilChild.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* pretty single (pls give credits to @elainehan if used) */
+@font-face {
+font-family: pretty single;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/PrettySingle.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/PrettySingle.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* real world (pls give credits to @elainehan if used) */
+@font-face {
+font-family: real world;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/RealWorld.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/RealWorld.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* simple day (pls give credits to @elainehan if used) */
+@font-face {
+font-family: simple day;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SimpleDay.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SimpleDay.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* sleepy moody (pls give credits to @elainehan if used) */
+@font-face {
+font-family: sleepy moody;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SleepyMoody.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SleepyMoody.woff') format('woff');
+font-style: normal;
+}
+
+/* stand alone (pls give credits to @elainehan if used) */
+@font-face {
+font-family: stand alone;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/StandAlone.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/StandAlone.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* starla (pls give credits to @elainehan if used) */
+@font-face {
+font-family: starla;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/Starla.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/Starla.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* angel (pls give credits to @elainehan if used) */
+@font-face {
+font-family: angel;
+src: url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SylviaAngel.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/handwriting-fonts/main/SylviaAngel.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
